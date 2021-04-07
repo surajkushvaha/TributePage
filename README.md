@@ -6,4 +6,5 @@ and all rights their own.
 
 link for this site:
 https://surajkushvaha.github.io/TributePage/TributePage.html
+or
 https://codepen.io/surajkushvaha/pen/WNRZMee
